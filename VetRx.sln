@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetRx", "VetRx\VetRx.csproj", "{E46993B3-7AA4-4961-B26A-0D5A0394C461}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VetRxSetup", "VetRxSetup\VetRxSetup.vdproj", "{900CECE2-887B-4638-9AC5-3D3153811F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46993B3-7AA4-4961-B26A-0D5A0394C461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46993B3-7AA4-4961-B26A-0D5A0394C461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46993B3-7AA4-4961-B26A-0D5A0394C461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46993B3-7AA4-4961-B26A-0D5A0394C461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900CECE2-887B-4638-9AC5-3D3153811F72}.Debug|Any CPU.ActiveCfg = Debug
+		{900CECE2-887B-4638-9AC5-3D3153811F72}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F18A938-30DD-4266-9A6F-FE27626761C5}
+	EndGlobalSection
+EndGlobal
